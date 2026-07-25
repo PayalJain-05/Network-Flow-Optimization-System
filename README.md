@@ -2,6 +2,7 @@
 Modeled a logistics network as a directed graph, then used Ford-Fulkerson and minimum-cut analysis to find its true bottleneck. One route limits everything — no matter how large the rest of the network is. Fix that route, and throughput opens up for the whole system.
 
 # Network Flow Optimization System
+<img width="299" height="193" alt="Screenshot 2026-07-25 at 9 23 06 PM" src="https://github.com/user-attachments/assets/d3e51b0b-5771-4bcb-aa3b-ea0ac165c176" />
 
 ### Where does a logistics network actually break?
 
